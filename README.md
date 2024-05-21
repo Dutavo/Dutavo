@@ -46,4 +46,4 @@
 
 ![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/Dutavo/Dutavo/assets/140900845/a60ba774-87ae-4252-8d83-50cf9bbade59)
 
-
+![snake gif](https://github.com/Dutavo/Dutavo/blob/output/github-contribution-grid-snake.svg)
