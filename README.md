@@ -5,7 +5,18 @@
 <br clear="both">
 
 <p align="center">Olá, sou Luiz Gustavo, Atualmente estudante graduando em Licenciatura em Ciência da Computação pela Universidade Federal da Paraíba - Campus IV, possuo diploma tecnico em Redes de Computadores, me interesso constantemente em expandir horizontes do meu conhecimento no que diz a área de tecnologia da informação e tudo que à agrega. 
+
+<!-- [<h1 align="center"> -->
+
+<div align="center">
   
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=00ccff&color:FFF)](mailto:luiz.santos@dcx.ufpb.br)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00ccff&color:FFF)](https:///www.linkedin.com/in/dutavolg12/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=00ccff&color:FFF)](https://www.instagram.com/dutavo_lg12/)
+
+</div>
+<!--</h1>-->
+
 #
 
 <div style="text-align: center;" align="center">
