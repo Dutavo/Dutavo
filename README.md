@@ -4,47 +4,51 @@
 
 <br clear="both">
 
+<p align="center">Olá, sou Luiz Gustavo, Atualmente estudante graduando em Licenciatura em Ciência da Computação pela Universidade Federal da Paraíba - Campus IV, possuo diploma tecnico em Redes de Computadores, me interesso constantemente em expandir horizontes do meu conhecimento no que diz a área de tecnologia da informação e tudo que à agrega. 
+  
+#
+
+<div style="text-align: center;" align="center">
+  <h3> ___Dutavo's GitHub Stats___ </h3>
+  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dutavo&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1&custom_title=Dutavo's%20GitHub%20Stats" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dutavo&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Dutavo/Dutavo/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
-
-###
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dutavo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 
 
+<h2 align="left"> 🔥 Skills </h2>
+
+  <img align="right" height="200" src="https://i.pinimg.com/originals/74/63/59/74635989b770a38189fff31a8ef152ea.gif"  />
 
 
-
-
-
-## 🔥 Skills
 <!-- Skills: Programming Languages -->
+
   <div style="flex-basis: 48%;">
-    <h3>Programming Languages</h3>
+    <div align="left">
+    <h3>• Programming Languages.....</h3>
+    <div align="left">
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <div align="right">
+</div>
 
-###
----
+  <!-- Skills: Tools & Frameworks -->
+  <div style="flex-basis: 48%;">
+    <h3>• Tools used.....</h3>
+    <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="25" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="25" alt="intellij logo"/>
+  <img width="12" />
+  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />  
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
+</div>
 
-![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/Dutavo/Dutavo/assets/140900845/a60ba774-87ae-4252-8d83-50cf9bbade59)
-
-![snake gif](https://github.com/Dutavo/Dutavo/blob/output/github-contribution-grid-snake.gif)
-
+#
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dutavo/Dutavo/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dutavo/Dutavo/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Dutavo/Dutavo/output/github-contribution-grid-snake.svg">
+</picture>
