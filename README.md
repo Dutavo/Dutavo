@@ -18,16 +18,17 @@
 <!--</h1>-->
 
 #
-
+<!-- STATUS GITHUB
 <div style="text-align: center;" align="center">
-  <h3> ___Dutavo's GitHub Stats___ </h3>
+  <h3> ___Dutavo's GitHub Stats___ </h3> -->
   
 <div align="center">
   <!--<img src="https://github-readme-stats.vercel.app/api?username=Dutavo&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1&custom_title=Dutavo's%20GitHub%20Stats" height="150" alt="stats graph"  />-->
  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dutavo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  /> -->
 
+<!-- LINGUAGENS QUE USA
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dutavo&layout=compact&theme=github_dark)
-
+-->
 
 <h2 align="left"> 🔥 Skills </h2>
 
