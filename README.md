@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<p align="center">Olá, sou Luiz Gustavo, estudante graduando em Licenciatura em Ciência da Computação pela Universidade Federal da Paraíba - Campus IV, atualmente interessado na aréa de desenvolvimento mobile, entretanto buscando constantemente expandir horizontes do meu conhecimento no que diz respeito a área de tecnologia da informação e tudo que à agrega. 
+<p align="center">Olá, sou Luiz Gustavo, estudante graduando em Licenciatura em Ciência da Computação pela Universidade Federal da Paraíba - Campus IV, <!-- atualmente interessado na aréa de desenvolvimento mobile --> entretanto buscando constantemente expandir horizontes do meu conhecimento no que diz respeito a área de tecnologia da informação e tudo que à agrega. 
 
 <!-- [<h1 align="center"> -->
 
